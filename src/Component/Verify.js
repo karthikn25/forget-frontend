@@ -26,7 +26,7 @@ export default function Verify() {
   }
   else{
     setError("")
-    navigate("/home")
+    navigate("/login")
    }
  
   
